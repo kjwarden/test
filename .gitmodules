@@ -1,0 +1,3 @@
+[submodule "ext/cmn-dev"]
+	path = ext/cmn-dev
+	url = https://github.com/kjwarden/cmn-dev
